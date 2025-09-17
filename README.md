@@ -19,7 +19,6 @@ I bring expertise in **Python, SQL, React, Node.js, Flask, FastAPI, Django, Spar
 
 ### Certifications  
 - AWS Certified Solutions Architect – Associate  
-- dbt Fundamentals  
 - AWS Cloud Quest: Cloud Practitioner  
 
 ---
